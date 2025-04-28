@@ -1,0 +1,3 @@
+C:/Users/Aleja/CLionProjects/CriaturasPOO/cmake-build-debug/CMakeFiles/CriaturasPOO.dir
+C:/Users/Aleja/CLionProjects/CriaturasPOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aleja/CLionProjects/CriaturasPOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
