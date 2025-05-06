@@ -8,13 +8,20 @@ add_executable(CriaturasPOO main.cpp
         criatura.h
         Nodo.cpp
         Nodo.h
-        Metamorfita.cpp
-        Metamorfita.h
-        LentoDeRaiz.cpp
-        LentoDeRaiz.h
-        Albo.cpp
-        Albo.h
         Mapa.cpp
         Mapa.h
-        Centella.cpp
-        Centella.h)
+        Bestia.cpp
+        Bestia.h
+        Magica.cpp
+        Magica.h
+        Volador.cpp
+        Volador.h
+        Acuatica.cpp
+        Acuatica.h
+        Dragon.cpp
+        Dragon.h
+        Sirena.cpp
+        Sirena.h
+        Hipogrifo.cpp
+        Hipogrifo.h
+)

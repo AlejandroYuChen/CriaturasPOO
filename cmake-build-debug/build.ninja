@@ -67,32 +67,50 @@ build CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj: CXX_COMPILER__CriaturasPOO_unsca
   OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
   OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
 
-build CMakeFiles/CriaturasPOO.dir/Metamorfita.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Metamorfita.cpp || cmake_object_order_depends_target_CriaturasPOO
-  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Metamorfita.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
-  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
-
-build CMakeFiles/CriaturasPOO.dir/LentoDeRaiz.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/LentoDeRaiz.cpp || cmake_object_order_depends_target_CriaturasPOO
-  DEP_FILE = CMakeFiles\CriaturasPOO.dir\LentoDeRaiz.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
-  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
-
-build CMakeFiles/CriaturasPOO.dir/Albo.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Albo.cpp || cmake_object_order_depends_target_CriaturasPOO
-  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Albo.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
-  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
-
 build CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Mapa.cpp || cmake_object_order_depends_target_CriaturasPOO
   DEP_FILE = CMakeFiles\CriaturasPOO.dir\Mapa.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
   OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
 
-build CMakeFiles/CriaturasPOO.dir/Centella.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Centella.cpp || cmake_object_order_depends_target_CriaturasPOO
-  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Centella.cpp.obj.d
+build CMakeFiles/CriaturasPOO.dir/Bestia.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Bestia.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Bestia.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/Magica.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Magica.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Magica.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/Volador.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Volador.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Volador.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/Acuatica.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Acuatica.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Acuatica.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/Dragon.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Dragon.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Dragon.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/Sirena.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Sirena.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Sirena.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/Hipogrifo.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Hipogrifo.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Hipogrifo.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
   OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
@@ -105,7 +123,7 @@ build CMakeFiles/CriaturasPOO.dir/Centella.cpp.obj: CXX_COMPILER__CriaturasPOO_u
 #############################################
 # Link the executable CriaturasPOO.exe
 
-build CriaturasPOO.exe: CXX_EXECUTABLE_LINKER__CriaturasPOO_Debug CMakeFiles/CriaturasPOO.dir/main.cpp.obj CMakeFiles/CriaturasPOO.dir/Criatura.cpp.obj CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj CMakeFiles/CriaturasPOO.dir/Metamorfita.cpp.obj CMakeFiles/CriaturasPOO.dir/LentoDeRaiz.cpp.obj CMakeFiles/CriaturasPOO.dir/Albo.cpp.obj CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj CMakeFiles/CriaturasPOO.dir/Centella.cpp.obj
+build CriaturasPOO.exe: CXX_EXECUTABLE_LINKER__CriaturasPOO_Debug CMakeFiles/CriaturasPOO.dir/main.cpp.obj CMakeFiles/CriaturasPOO.dir/Criatura.cpp.obj CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj CMakeFiles/CriaturasPOO.dir/Bestia.cpp.obj CMakeFiles/CriaturasPOO.dir/Magica.cpp.obj CMakeFiles/CriaturasPOO.dir/Volador.cpp.obj CMakeFiles/CriaturasPOO.dir/Acuatica.cpp.obj CMakeFiles/CriaturasPOO.dir/Dragon.cpp.obj CMakeFiles/CriaturasPOO.dir/Sirena.cpp.obj CMakeFiles/CriaturasPOO.dir/Hipogrifo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
