@@ -6,22 +6,12 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(CriaturasPOO main.cpp
         criatura.cpp
         criatura.h
-        Nodo.cpp
-        Nodo.h
         Mapa.cpp
         Mapa.h
-        Bestia.cpp
-        Bestia.h
-        Magica.cpp
-        Magica.h
-        Volador.cpp
-        Volador.h
-        Acuatica.cpp
-        Acuatica.h
-        Dragon.cpp
-        Dragon.h
-        Sirena.cpp
-        Sirena.h
-        Hipogrifo.cpp
-        Hipogrifo.h
+        Conejo.cpp
+        Conejo.h
+        Zorro.cpp
+        Zorro.h
+        Nodo.cpp
+        Nodo.h
 )

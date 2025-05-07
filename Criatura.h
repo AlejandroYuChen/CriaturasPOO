@@ -1,49 +1,26 @@
-//
-// Created by Aleja on 5/3/2025.
-//
-
 #ifndef CRIATURA_H
 #define CRIATURA_H
 
 #include <string>
-#include <iostream>
+#include <vector>
+#include <memory>
+#include <random>
+#include "Nodo.h"
 
 using namespace std;
 
-class Criatura {
+class Criatura : public enable_shared_from_this<Criatura> {
 protected:
     string nombre;
-    int salud;
-    int fuerza;
-
+    bool viva = true;
 public:
-    // Constructor por defecto
-    Criatura();
-
-    // Constructor con parámetros
-    Criatura(const std::string& nombre, int salud, int fuerza);
-
-    // Métodos getter
-    std::string getNombre() const;
-    int getSalud() const;
-    int getFuerza() const;
-
-    // Métodos setter
-    void setNombre(const std::string& nuevoNombre);
-    void setSalud(int nuevaSalud);
-    void setFuerza(int nuevaFuerza);
-
-    // Métodos virtuales puros
-    virtual void actuar() = 0;
-    virtual void reproducirse() = 0;
-    virtual void moverse() = 0;
-    virtual void morir() = 0;
-
-    // Destructor virtual
-    virtual ~Criatura();
+    Criatura(string nombre_);
+    virtual void actuar(Nodo* nodo, mt19937& rng,vector<shared_ptr<Criatura>>& nuevas_criaturas) = 0;
+    virtual string getTipo() const = 0;
+    virtual string getNombre() const;
+    bool estaViva() const;
+    void morir();
+    virtual ~Criatura() {}
 };
 
-
-
-
-#endif //CRIATURA_H
+#endif // CRIATURA_H
