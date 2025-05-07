@@ -57,12 +57,7 @@
 				3,
 				5,
 				7,
-				9,
-				11,
-				13,
-				15,
-				17,
-				19
+				9
 			]
 		}
 	],
@@ -104,12 +99,7 @@
 				3,
 				5,
 				7,
-				9,
-				11,
-				13,
-				15,
-				17,
-				19
+				9
 			]
 		},
 		{
@@ -120,12 +110,7 @@
 				4,
 				6,
 				8,
-				10,
-				12,
-				14,
-				16,
-				18,
-				20
+				10
 			]
 		}
 	],
@@ -151,17 +136,6 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Nodo.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Nodo.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
 			"path" : "Mapa.cpp",
 			"sourceGroupIndex" : 0
 		},
@@ -173,78 +147,34 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Bestia.cpp",
+			"path" : "Conejo.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Bestia.h",
+			"path" : "Conejo.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Magica.cpp",
+			"path" : "Zorro.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Magica.h",
+			"path" : "Zorro.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Volador.cpp",
+			"path" : "Nodo.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Volador.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Acuatica.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Acuatica.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Dragon.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Dragon.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Sirena.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Sirena.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Hipogrifo.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Hipogrifo.h",
+			"path" : "Nodo.h",
 			"sourceGroupIndex" : 1
 		}
 	],
