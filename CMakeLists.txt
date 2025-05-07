@@ -14,4 +14,8 @@ add_executable(CriaturasPOO main.cpp
         Zorro.h
         Nodo.cpp
         Nodo.h
+        Mapa.cpp
+        Mapa.h
+        Nodo.cpp
+        Nodo.h
 )

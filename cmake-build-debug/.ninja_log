@@ -1,0 +1,15 @@
+# ninja log v6
+38	1060	7683588896815618	CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj	33677c4d87c08b4a
+18	1256	7683588896625626	CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj	dcf7f037dfbc4f6d
+30	1566	7683588896745625	CMakeFiles/CriaturasPOO.dir/Zorro.cpp.obj	474d4e48740bf039
+12	1257	7683588896565645	CMakeFiles/CriaturasPOO.dir/Criatura.cpp.obj	79efb11665891c82
+4	1557	7683588896475636	CMakeFiles/CriaturasPOO.dir/main.cpp.obj	54c738ca0483ca03
+24	1556	7683588896685618	CMakeFiles/CriaturasPOO.dir/Conejo.cpp.obj	d241b5d41b093374
+1566	1782	7683588912095619	CriaturasPOO.exe	808e303720b8019d
+37	1092	7683592742489621	CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj	33677c4d87c08b4a
+16	1300	7683592742279073	CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj	dcf7f037dfbc4f6d
+11	1442	7683592742229017	CMakeFiles/CriaturasPOO.dir/Criatura.cpp.obj	79efb11665891c82
+5	1721	7683592742173937	CMakeFiles/CriaturasPOO.dir/main.cpp.obj	54c738ca0483ca03
+31	1804	7683592742429558	CMakeFiles/CriaturasPOO.dir/Zorro.cpp.obj	474d4e48740bf039
+22	1806	7683592742344293	CMakeFiles/CriaturasPOO.dir/Conejo.cpp.obj	d241b5d41b093374
+1806	2001	7683592760183537	CriaturasPOO.exe	808e303720b8019d
