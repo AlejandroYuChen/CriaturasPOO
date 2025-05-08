@@ -113,4 +113,6 @@ La aplicación correrá mostrando la simulación por consola durante 10 turnos.
 
 ---
 
-¡Disfruta explorando el mundo de CriaturasPOO y experimentando con tus propias criaturas y reglas en la simulación!
+### Créditos
+
+Shi Jian Alejandro Yu Chen
