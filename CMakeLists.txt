@@ -18,4 +18,8 @@ add_executable(CriaturasPOO main.cpp
         Mapa.h
         Nodo.cpp
         Nodo.h
+        Magico.cpp
+        Magico.h
+        BuhoMagico.cpp
+        BuhoMagico.h
 )

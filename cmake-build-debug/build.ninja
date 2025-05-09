@@ -85,6 +85,18 @@ build CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj: CXX_COMPILER__CriaturasPOO_unsca
   OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
   OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
 
+build CMakeFiles/CriaturasPOO.dir/Magico.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/Magico.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\Magico.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
+build CMakeFiles/CriaturasPOO.dir/BuhoMagico.cpp.obj: CXX_COMPILER__CriaturasPOO_unscanned_Debug C$:/Users/Aleja/CLionProjects/CriaturasPOO/BuhoMagico.cpp || cmake_object_order_depends_target_CriaturasPOO
+  DEP_FILE = CMakeFiles\CriaturasPOO.dir\BuhoMagico.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
+  OBJECT_FILE_DIR = CMakeFiles\CriaturasPOO.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CriaturasPOO
@@ -93,7 +105,7 @@ build CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj: CXX_COMPILER__CriaturasPOO_unsca
 #############################################
 # Link the executable CriaturasPOO.exe
 
-build CriaturasPOO.exe: CXX_EXECUTABLE_LINKER__CriaturasPOO_Debug CMakeFiles/CriaturasPOO.dir/main.cpp.obj CMakeFiles/CriaturasPOO.dir/Criatura.cpp.obj CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj CMakeFiles/CriaturasPOO.dir/Conejo.cpp.obj CMakeFiles/CriaturasPOO.dir/Zorro.cpp.obj CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj
+build CriaturasPOO.exe: CXX_EXECUTABLE_LINKER__CriaturasPOO_Debug CMakeFiles/CriaturasPOO.dir/main.cpp.obj CMakeFiles/CriaturasPOO.dir/Criatura.cpp.obj CMakeFiles/CriaturasPOO.dir/Mapa.cpp.obj CMakeFiles/CriaturasPOO.dir/Conejo.cpp.obj CMakeFiles/CriaturasPOO.dir/Zorro.cpp.obj CMakeFiles/CriaturasPOO.dir/Nodo.cpp.obj CMakeFiles/CriaturasPOO.dir/Magico.cpp.obj CMakeFiles/CriaturasPOO.dir/BuhoMagico.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CriaturasPOO.dir
